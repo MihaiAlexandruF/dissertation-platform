@@ -73,5 +73,3 @@ Ensure you have the following installed:
 
 
 ---
-
-Made with ❤️ by the Dissertation Platform team.
